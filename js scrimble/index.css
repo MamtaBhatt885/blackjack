@@ -1,0 +1,28 @@
+body{
+    border:2px solid black;
+    width:20%;
+    margin-top:150px;
+    margin-left:300px;
+    border-radius:10px;
+    background-color:aqua;
+      text-align: center;
+}
+.random{
+    background-color:blueviolet;
+    border-style: groove;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    padding: top 10px;
+    color:black;
+    font-weight: bold;
+    width:200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    
+    width:60%;
+
+}
+#increment-btn{
+    background: darkred;
+}
